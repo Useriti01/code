@@ -15,29 +15,29 @@ public class PersonService {
 		Person p = new Person();
 		p.setId("1");
 		p.setAge(21);
-		p.setFirstName("Khaled");
-		p.setLastName("Amrosy");
+		p.setFirstName("Ahmed");
+		p.setLastName("Hossam");
 		persons.add(p);
 
 		p = new Person();
 		p.setId("2");
 		p.setAge(25);
 		p.setFirstName("Mohammed");
-		p.setLastName("Shalaby");
+		p.setLastName("Salah");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("3");
 		p.setAge(25);
-		p.setFirstName("Basem");
-		p.setLastName("Salama");
+		p.setFirstName("Amr");
+		p.setLastName("Mostafa");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("4");
 		p.setAge(25);
-		p.setFirstName("AbdulHalim");
-		p.setLastName("Mahmoud");
+		p.setFirstName("Amr");
+		p.setLastName("Diab");
 		persons.add(p);
 		
 	}
